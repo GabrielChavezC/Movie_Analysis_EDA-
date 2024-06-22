@@ -1,4 +1,4 @@
-
+<h1 align="center"><b><big>Movie Analysis 📊</big></b></h1>
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
